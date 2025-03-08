@@ -15,36 +15,38 @@ The majority (45.6%) were operators (riders), followed by passengers (37.6%) and
 Approximately half of the patients (51.6%) were kabaza riders by occupation. Of these, 36 (89.6%) were operating with no driving license. The average years of experience of the riders was 6.1±3.8 years.
 
 There were no female motorcycle rider patients found in this study. A third of the patients reported their occupation as casual laborers, and the rest included students, farmers and self-employed persons.
-
 | Characteristic | Level | All Patients | Motorcycle Rider/Operator | Pedestrian | Passenger | p-value |
-|---------------|-------|--------------|-----------------------------|------------|-----------|---------|
-| Total N (%)   |       | 126          | 65 (51.6)                   | 29 (23.0)  | 32 (25.4) |         |
-| Age Median (IQR) |       | 30.0 (24.0 to 37.0) | 31.0 (26.0 to 36.0)      | 36.0 (24.0 to 50.0) | 23.5 (21.0 to 27.5) | <0.001   |
-| Age Group     | ≤20 years | 9 (7.1)      | 2 (3.1)                     | 3 (10.3)    | 4 (12.5)  | <0.001   |
-|               | 21-30 years | 57 (45.2)    | 28 (43.1)                  | 7 (24.1)    | 22 (68.8) |           |
-|               | 31-40 years | 38 (30.2)    | 26 (40.0)                  | 7 (24.1)    | 5 (15.6)  |           |
-|               | 41-50 years | 14 (11.1)    | 7 (10.8)                   | 6 (20.7)    | 1 (3.1)   |           |
-|               | >50 years   | 8 (6.4)      | 2 (3.1)                    | 6 (20.7)    | 0 (0.0)   |           |
-| Sex           | Male      | 108 (85.7)   | 65 (100.0)                 | 22 (75.9)   | 21 (65.6) | <0.001   |
-|               | Female     | 18 (14.3)    | 0 (0.0)                    | 7 (24.1)    | 11 (34.4) |           |
-| Occupation    | Motorcycle Rider | 65 (51.6) | 62 (94.0)                 | 0 (0.0)     | 3 (9.4)   | <0.001   |
-|               | Casual Labourer | 38 (30.2)  | 1 (1.5)                    | 19 (65.5)   | 18 (56.3) |           |
-|               | Hawker/Farmer | 7 (5.6)     | 1 (1.5)                    | 5 (17.2)    | 1 (3.1)   |           |
-|               | Self-employed | 5 (4.0)     | 1 (1.5)                    | 2 (6.9)     | 2 (6.2)   |           |
-|               | Student/Tourist Housewife | 12 (9.5) | 1 (1.5)                  | 3 (10.3)    | 8 (25.0)  |           |
-| Education Level | None      | 4 (3.2)     | 2 (3.1)                    | 2 (6.9)     | 0 (0.0)   | 0.331    |
-|               | Primary     | 62 (49.2)   | 31 (47.7)                  | 18 (62.1)   | 13 (40.6) |           |
-|               | Secondary   | 50 (39.7)   | 27 (41.5)                  | 8 (27.6)    | 15 (46.9) |           |
-|               | Tertiary    | 10 (7.9)    | 5 (7.7)                    | 1 (3.4)     | 4 (12.5)  |           |
-| Referral Status | No        | 48 (38.1)   | 26 (40.0)                  | 11 (37.9)   | 11 (34.4) | 0.866    |
-|               | Yes        | 78 (61.9)   | 39 (60.0)                  | 18 (62.1)   | 21 (65.6) |           |
-| Mode of Evacuation | Ambulance | 73 (57.9)   | 39 (60.0)                  | 15 (51.7)   | 19 (59.4) | 0.810    |
-|               | Police Vehicle | 2 (1.6)    | 1 (1.5)                    | 1 (3.4)     | -         |           |
-|               | Private Vehicle | 51 (40.5) | 25 (38.5)                  | 13 (44.8)   | 13 (40.6) |           |
+|----------------|-------|--------------|---------------------------|------------|-----------|---------|
+| Total N (%)    |       | 125          | 57 (45.6)                 | 21 (16.8)  | 47 (37.6) |         |
+| Age Median (IQR) |     | 30.0 (24.0 to 37.0) | 31.0 (26.0 to 36.0)  | 36.0 (24.0 to 50.0) | 23.5 (21.0 to 27.5) | <0.001   |
+| Age Group      | ≤20 years | 9 (7.2)  | 2 (3.5)                   | 3 (14.3)   | 4 (8.5)   | <0.001   |
+|                | 21-30 years | 57 (45.6) | 28 (49.1)              | 7 (33.3)   | 22 (46.8) |         |
+|                | 31-40 years | 38 (30.4) | 26 (45.6)              | 7 (33.3)   | 5 (10.6)  |         |
+|                | 41-50 years | 14 (11.2) | 7 (12.3)               | 6 (28.6)   | 1 (2.1)   |         |
+|                | >50 years   | 7 (5.6)  | 2 (3.5)                 | 6 (28.6)   | 0 (0.0)   |         |
+| Sex            | Male      | 108 (86.4) | 57 (100.0)              | 15 (71.4)  | 36 (76.6) | <0.001   |
+|                | Female    | 17 (13.6)  | 0 (0.0)                 | 6 (28.6)   | 11 (23.4) |         |
+| Occupation     | Motorcycle Rider | 57 (45.6) | 57 (100.0)         | 0 (0.0)    | 0 (0.0)   | <0.001   |
+|                | Casual Labourer | 34 (27.2) | 0 (0.0)            | 19 (90.5)  | 15 (31.9) |         |
+|                | Small-bussness | 26 (20.8) | 0 (0.0)             | 2 (9.5)    | 24 (51.1) |         |
+|                | Employee-public-or-private | 11 (8.8) | 0 (0.0) | 0 (0.0)    | 11 (23.4) |         |
+|                | Farmer | 8 (6.4) | 0 (0.0)                      | 0 (0.0)    | 8 (17.0)  |         |
+|                | Student | 6 (4.8) | 0 (0.0)                     | 0 (0.0)    | 6 (12.8)  |         |
+| Education Level | None     | 4 (3.2)  | 2 (3.5)                   | 2 (9.5)    | 0 (0.0)   | 0.331    |
+|                | Primary  | 62 (49.6) | 31 (54.4)                | 18 (85.7)  | 13 (27.7) |         |
+|                | Secondary | 50 (40.0) | 24 (42.1)               | 1 (4.8)    | 25 (53.2) |         |
+|                | Tertiary | 9 (7.2)  | 0 (0.0)                   | 0 (0.0)    | 9 (19.1)  |         |
+| Referral Status | No      | 48 (38.4) | 26 (45.6)                | 11 (52.4)  | 11 (23.4) | 0.866    |
+|                | Yes      | 77 (61.6) | 31 (54.4)                | 10 (47.6)  | 36 (76.6) |         |
+| Mode of Evacuation | Ambulance | 30 (24.0) | 15 (26.3)            | 7 (33.3)   | 8 (17.0)  | 0.810    |
+|                | Police Vehicle | 7 (5.6) | 2 (3.5)              | 1 (4.8)    | 4 (8.5)   |         |
+|                | Private Vehicle | 79 (63.2) | 40 (70.2)          | 13 (61.9)  | 26 (55.3) |         |
+|                | Motorbike | 6 (4.8) | 0 (0.0)                   | 0 (0.0)    | 6 (12.8)  |         |
 | Time-to-Presentation at QECH (hours), Median (IQR) | | 3.4 (2.0 to 6.0) | 3.0 (2.0 to 6.0) | 3.6 (2.0 to 6.0) | 3.2 (1.9 to 5.3) | 0.641    |
+| Time-to-Presentation at QECH (hours), ≤3 hours | | 57 (45.6) | 29 (50.9) | 10 (47.6) | 18 (38.3) | 0.398    |
+| Time-to-Presentation at QECH (hours), >3 hours | | 68 (54.4) | 28 (49.1) | 11 (52.4) | 29 (61.7) |         |
 
-
-
+[]:
 
 # Circumstances of the injuries
 
